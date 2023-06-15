@@ -1,0 +1,14 @@
+ /* Céleste */
+.celeste-header{
+   
+    
+    font-family: 'Oleo Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 89px;
+    text-align: center;
+    
+    color: #E6E8EC;
+    text-shadow: 0px 0px 33px rgba(191, 155, 48, 0.66);
+}

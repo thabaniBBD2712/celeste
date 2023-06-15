@@ -1,0 +1,49 @@
+body{
+    background-color: #14141F;
+    min-height: 100vh;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.home-header{
+font-family: 'Oleo Script';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+color: #E6E8EC;
+border-bottom: 2px solid #BF9B30;
+padding-bottom: -6px
+}
+.slogan{
+font-family: 'Oleo Script';
+font-style: normal;
+font-weight: 400;
+font-size: 42px;
+text-align: center;
+color: #E6E8EC;
+}
+.testing-menu{
+width: 262px;
+height: 49px;
+top: 882px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 42px;
+line-height: 600px;
+text-align: center;
+color: #FFFFFF;
+text-decoration: none;
+}
+.buttom-leaf{
+    width: 500px;
+    display: flex;
+    align-self: flex-end;
+}
+.left-element{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+}

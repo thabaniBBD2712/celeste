@@ -1,0 +1,95 @@
+.menu-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
+
+.body-container{
+    width: 600px;
+    height: 966px;
+    box-sizing: border-box;
+    border: 3px solid #BF9B30;
+    border-radius: 60px; 
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.footer-container{
+width: 600px;
+height: 363px;
+background: #303030;
+border-radius: 69px;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding-top: 3rem;
+gap: 2rem;
+}
+.bold{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+color: #E6E8EC;
+text-align: -webkit-auto;
+}
+.normal{font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    color: #B3B3B3;
+    text-align: -webkit-auto;
+    }
+    .add{
+       
+        font-family: 'Oleo Script';
+        font-style: normal;
+        color: #E6E8EC;
+        font-weight: 400;
+        font-size: 42px;
+        display: flex;
+        flex-direction: row;
+        gap: 3rem;
+
+    }
+    .btn-quantity{
+        border: 3px solid #BF9B30;
+        border-radius: 50%;
+        align-items: center;
+        background-color: #303030;
+        font-weight: 400;
+        font-size: 42px;
+        color: #BF9B30;
+    }
+    .person{
+        font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+text-align: center;
+
+color: #E6E8EC;
+    }
+    .price{font-family: 'Oleo Script';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 36px;
+        text-align: center;
+        color: #B3B3B3;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)}
+    .buy{
+
+background: #FFFFFF;
+border-radius: 40px;
+font-family: 'Oleo Script';
+font-style: normal;
+font-weight: 400;
+font-size: 42px;
+line-height: 58px;
+width: 75%;
+color: #14141F;
+    }
