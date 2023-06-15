@@ -82,7 +82,7 @@ const decrement = () => {
         </div>
         <div className="person">Number of Persons</div>
         <div className="price">R100 per person</div>
-        <button className="buy">Add to Order</button>
+       {quantity===0?'':<button className={`buy ${quantity===1 ? 'condition-met' : ''}`}>Add to Order</button>} 
       </div>
     </div>
   );

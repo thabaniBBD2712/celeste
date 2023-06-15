@@ -93,3 +93,8 @@ line-height: 58px;
 width: 75%;
 color: #14141F;
     }
+    .condition-met{
+        background:#303030 ;
+        color: #FFFFFF;
+        border: 5px solid #B3B3B3
+    }
